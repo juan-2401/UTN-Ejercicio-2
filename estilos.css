@@ -87,6 +87,17 @@ main{
 .noticia-5 { grid-area: b2; 
     background-color: white
 }
+
+.imagenes{
+    text-align: center;
+}
+
+img{
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+}
+
 .banner {
  margin-left: 10px;
  width: 20%;
